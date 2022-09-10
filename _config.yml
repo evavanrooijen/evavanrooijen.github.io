@@ -108,7 +108,7 @@ content:
         quote: >
           internship at Science Centre TU Delft
         description: | # this will include new lines to allow paragraphs
-          <img src="https://cdn-blog.adafruit.com/uploads/2016/04/1.jpg" style="padding-right: 15px;  float:left" alt="drawing" width="400" />
+          <img src="https://cdn-blog.adafruit.com/uploads/2016/04/1.jpg" style="padding-right: 50px;  float:left" alt="drawing" width="400" />
           Explored the use of art as science communication tool.
           
           - Designed an installation to help explain Neural Networks 
