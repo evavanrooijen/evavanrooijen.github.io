@@ -12,7 +12,7 @@ email: evav.rooijen@live.nl
 # website: https://evavanrooijen.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
 twitter_username: evalikesdata
