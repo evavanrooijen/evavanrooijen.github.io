@@ -53,7 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   As well as working on predictive models I also have experience making visualisations and teaching. Through extracurricular activities, I have gained teamwork and leadership skills.
 
   I am most skilled in: <mark>Statistics</mark> and <mark>Python</mark>
-  Besides that I like to sew clothes and travel on my motorycle!
 
 content:
 
@@ -107,14 +106,12 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Besides this, I enjoy to:
+      - design and sew clothes
+      - travel on my motorcycle
+      - view impressionism painting
+ 
+      ![Trees]/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
