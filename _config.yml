@@ -109,7 +109,12 @@ content:
           internship at Science Centre TU Delft
         description: | # this will include new lines to allow paragraphs
           <img src="https://cdn-blog.adafruit.com/uploads/2016/04/1.jpg" alt="drawing" width="400"/>
-          Designed an installation to help explain Neural Networks in collaboration with artists, mechanics and mathematicians
+          Explored the use of art as science communication tool.
+          
+          Designed an installation to help explain Neural Networks in 
+          collaboration with artists, mechanics and mathematicians.
+          Learnt how to work with arduino and join forces with my python code.
+          Additionally, made prototypes with various materials.
 
   - title: Experience 
     layout: list # Type of content section (list/text)
