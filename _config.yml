@@ -197,6 +197,8 @@ content:
       - view impressionism painting
  
       ![Gardens of Monet]/images/giverny.jpg "Gardens of Monet")
+      ![Alt text](images/motor france.jpg "a title")
+      ![Alt text](images/plitvice.jpg "a title")
 
 # Footer
 footer_show_references: true
