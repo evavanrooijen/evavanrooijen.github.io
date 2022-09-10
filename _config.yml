@@ -196,10 +196,7 @@ content:
       - travel on my motorcycle
       - view impressionism painting
  
-      #![Gardens of Monet]/images/giverny.jpg "Gardens of Monet")
-      #![Alt text](images/motor france.jpg "a title")
       <img src="images/motor france.jpg" alt="drawing" width="200"/>
-      #![Alt text](images/plitvice.jpg "a title")
       <img src="images/plitvice.jpg" alt="drawing" width="400"/>
 
 # Footer
