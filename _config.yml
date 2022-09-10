@@ -95,7 +95,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Art Installation
+        title: Art to Explain Neural Nets
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -108,6 +108,7 @@ content:
         quote: >
           internship at Science Centre TU Delft
         description: | # this will include new lines to allow paragraphs
+          <img src="images/hoberman.jpg" alt="drawing" width="400"/>
           Designed an installation to help explain Neural Networks in collaboration with artists, mechanics and mathematicians
 
   - title: Experience 
