@@ -59,16 +59,45 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+       - layout: left
+        title: Erasmus University Rotterdam
+        caption: 2022 - 2023
+        sub_title: MSc Econometrics and Management Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Analytics and Operations Research In Logistics
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: TU Delft
+        caption: 2021 - 2023
+        sub_title: MSc Science Education and Communication
+        quote: >
+          Communication Design for Innovation
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+      - layout: left
+        title: Erasmus University Rotterdam
+        caption: 2016 - 2020
+        sub_title: BSc Econometrics and Operations Research
+        quote: >
+          Thesis: Topic Modeling of News Articles - Model Validation by Topic Stability
+        description: | # this will include new lines to allow paragraphs
+            Minor: Advanced Computer Science, 8.7/10
+              National Research University HSE Moscow, Exchange Semester, Computer Science, 8.5/10
+            Courses: Medical Informatics; Cognitive Neuroscience; Data Engineering; Machine Learning 
+      - layout: left
+        title: Erasmus University Rotterdam
+        caption: 2016 - 2020
+        sub_title: BSc International Economics and Business Economics
+        quote: >
+          Thesis: Topic Modeling of News Articles - Model Validation by Topic Stability
+        description: | # this will include new lines to allow paragraphs
+          Major: Policy Economics, 8.2/10 Electives: Environmental Economics, Impact Evaluation
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
