@@ -186,9 +186,10 @@ content:
       - travel on my motorcycle
       - view impressionism painting
  
-      <img src="images/motor france.jpg" style="padding-right: 50px"; alt="drawing" width="300"/>
-      <img src="images/plitvice.jpg" style="padding-right: 50px"; alt="drawing" width="400"/>
-      <img src="images/giverny.jpg" alt="drawing" width="400"/>
+      <img src="images/motor france.jpg" width="300"/>
+      <img src="images/plitvice.jpg"  width="400"/>
+      <img src="images/map.jpg"  alt="map" width="400" />
+      <img src="images/giverny.jpg"  width="400"/>
 
 # Footer
 footer_show_references: true
