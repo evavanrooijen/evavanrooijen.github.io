@@ -60,13 +60,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Erasmus University Rotterdam
+        title: 
         caption: 2022 - 2023
         sub_title: MSc Econometrics and Management Science
         quote: >
-          Analytics and Operations Research In Logistics
+          Erasmus University Rotterdam
         description: | # this will include new lines to allow paragraphs
-           complex systems
+           Analytics and Operations Research In Logistics
       - layout: left
         title: TU Delft
         caption: 2021 - 2023
