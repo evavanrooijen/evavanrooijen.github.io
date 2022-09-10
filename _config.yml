@@ -140,14 +140,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             After freelancing, was looking for teamwork and development.
                 
-      - layout: left
-        title: Research Assistant
-        sub_title: Freelance
-        caption: 
-        quote: >
-          prof. Philip Hans Franses + Citizen Science
-        description: | # this will include new lines to allow paragraphs
-            africa simulation
+
+       # title: Research Assistant
+
             
 
   - title: Extracurricular Activities # Title for the section
