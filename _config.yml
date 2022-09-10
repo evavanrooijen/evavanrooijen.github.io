@@ -59,7 +59,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-       - layout: left
+    - layout: left
         title: Erasmus University Rotterdam
         caption: 2022 - 2023
         sub_title: MSc Econometrics and Management Science
