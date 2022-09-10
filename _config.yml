@@ -66,9 +66,7 @@ content:
         quote: >
           Analytics and Operations Research In Logistics
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+           complex systems
       - layout: left
         title: TU Delft
         caption: 2021 - 2023
@@ -76,9 +74,8 @@ content:
         quote: >
           Communication Design for Innovation
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+                 Electives: Environmental Economics, Impact Evaluation
+                 Causal Networks, Graph Theory, Climate Data Analysis, Evolutionary Algorithms
 
       - layout: left
         title: Erasmus University Rotterdam
@@ -89,8 +86,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Minor: Advanced Computer Science, 8.7/10
             Major: Policy Economics, 8.2/10 
-            
-            Electives: Environmental Economics, Impact Evaluation
+           
             
             National Research University HSE Moscow, Exchange Semester, Computer Science, 8.5/10
             Courses: Medical Informatics; Cognitive Neuroscience; Data Engineering; Machine Learning 
@@ -114,7 +110,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Designed an installation to help explain Neural Networks in collaboration with artists, mechanics and mathematicians
 
-  - title: Experience # Title for the section
+  - title: Experience 
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -122,40 +118,39 @@ content:
         link: wisdombeyonddata.github.io
         link_text: wisdombeyonddata.com
         sub_title: Freelance
-        caption: November 2017 - Present
+        caption: 2020- Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          My purpose is to learn about my field, myself and others every day.
+          My values are simplicity and wisdom.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. 
-       
+            teach courses on python, data science and visualisations
+               
+      - layout: left
+        title: Ministry of Internal Affairs
+        sub_title: Data Scientist
+        caption: 1/2021 - 9/2021
+        quote: >
+          Improving the search engine for open publication of officIal governmental documents
+        description: | # this will include new lines to allow paragraphs
+            After freelancing, was looking for teamwork and development.
+                
       - layout: left
         title: Research Assistant
         sub_title: Freelance
-        caption: November 2017 - Present
+        caption: 
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          prof. Philip Hans Franses + Citizen Science
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. 
+            africa simulation
             
-            
-      - layout: left
-        title: Ministry of Internal Affairs
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I pl
-            
+
   - title: Extracurricular Activities # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: TU Delft Dreamteam Epoch
-        caption: 2021
-        sub_title: MSc Econometrics and Management Science
+        caption: 2021 - 2022
+        sub_title: Chief AI Engineer
         quote: >
           Analytics and Operations Research In Logistics
         description: | # this will include new lines to allow paragraphs
@@ -168,25 +163,24 @@ content:
         quote: >
           Communication Design for Innovation
         description: | # this will include new lines to allow paragraphs
-              Designed an installation to help explain Neural Networks in collaboration with artists, mechanics and mathematicians
               
       - layout: top-middle
         title: Erasmus Honours Academy
-        caption: 2019
+        caption: 2019 - 2020
         sub_title: Personal Leadership Programme
         quote: >
           Values, Time Management, ...
         description: | # this will include new lines to allow paragraphs
-          Designed an installation to help explain Neural Networks in collaboration with artists, mechanics and mathematicians
+          
 
       - layout: top-middle
         title: FAECTOR
-        caption: 2019
+        caption: 2019 - 2020
         sub_title: Excellence Programme
         quote: >
          Artificial Intelligence
         description: | # this will include new lines to allow paragraphs
-                    Designed an installation to help explain Neural Networks in collaboration with artists, mechanics and mathematicians
+                    
 
   - title: A Little More About Me
     layout: text
