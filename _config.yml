@@ -148,31 +148,31 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: TU Delft Dreamteam Epoch
+        title: Chief AI Engineer
         caption: 2021 - 2022
-        sub_title: Chief AI Engineer
+        sub_title: TU Delft Dreamteam Epoch
         quote: 
         description: | # this will include new lines to allow paragraphs
                   
       - layout: top-middle
-        title: Erasmus Honours Academy
+        title:  Honours Research Class
         caption: 2019-2020
-        sub_title: Bachelor Honours Research Class
+        sub_title: Erasmus Honours Academy
         quote: >
         description: | # this will include new lines to allow paragraphs
               
       - layout: top-middle
-        title: Erasmus Honours Academy
+        title: Personal Leadership Programme
         caption: 2019 - 2020
-        sub_title: Personal Leadership Programme
+        sub_title: Erasmus Honours Academy
         quote: >
         description: | # this will include new lines to allow paragraphs
           
 
       - layout: top-middle
-        title: FAECTOR
+        title: Excellence Programme - AI
         caption: 2019 - 2020
-        sub_title: Excellence Programme - AI
+        sub_title: FAECTOR Study Association
         quote: >
         description: | # this will include new lines to allow paragraphs
                     
