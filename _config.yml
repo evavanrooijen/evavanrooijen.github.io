@@ -151,17 +151,14 @@ content:
         title: TU Delft Dreamteam Epoch
         caption: 2021 - 2022
         sub_title: Chief AI Engineer
-        quote: >
-          Analytics and Operations Research In Logistics
+        quote: 
         description: | # this will include new lines to allow paragraphs
-                  Designed an installation to help explain Neural Networks in collaboration with artists, mechanics and mathematicians
                   
       - layout: top-middle
         title: Erasmus Honours Academy
         caption: 2019-2020
         sub_title: Bachelor Honours Research Class
         quote: >
-          Communication Design for Innovation
         description: | # this will include new lines to allow paragraphs
               
       - layout: top-middle
@@ -169,16 +166,14 @@ content:
         caption: 2019 - 2020
         sub_title: Personal Leadership Programme
         quote: >
-          Values, Time Management, ...
         description: | # this will include new lines to allow paragraphs
           
 
       - layout: top-middle
         title: FAECTOR
         caption: 2019 - 2020
-        sub_title: Excellence Programme
+        sub_title: Excellence Programme: AI
         quote: >
-         Artificial Intelligence
         description: | # this will include new lines to allow paragraphs
                     
 
