@@ -83,21 +83,17 @@ content:
       - layout: left
         title: Erasmus University Rotterdam
         caption: 2016 - 2020
-        sub_title: BSc Econometrics and Operations Research
+        sub_title: BSc2 Econometrics and Operations Research + BSc International Economics and Business Economics
         quote: >
           Thesis: Topic Modeling of News Articles - Model Validation by Topic Stability
         description: | # this will include new lines to allow paragraphs
             Minor: Advanced Computer Science, 8.7/10
-              National Research University HSE Moscow, Exchange Semester, Computer Science, 8.5/10
+            Major: Policy Economics, 8.2/10 
+            
+            Electives: Environmental Economics, Impact Evaluation
+            
+            National Research University HSE Moscow, Exchange Semester, Computer Science, 8.5/10
             Courses: Medical Informatics; Cognitive Neuroscience; Data Engineering; Machine Learning 
-      - layout: left
-        title: Erasmus University Rotterdam
-        caption: 2016 - 2020
-        sub_title: BSc International Economics and Business Economics
-        quote: >
-          Thesis: Topic Modeling of News Articles - Model Validation by Topic Stability
-        description: | # this will include new lines to allow paragraphs
-          Major: Policy Economics, 8.2/10 Electives: Environmental Economics, Impact Evaluation
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
