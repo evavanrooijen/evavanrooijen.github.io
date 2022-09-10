@@ -46,7 +46,7 @@ linkedin_username: evavanrooijen
 
 # About Section
 about_title: Hello, World! #About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/me.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Eva and like to puzzle with data. 
   
