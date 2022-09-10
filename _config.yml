@@ -114,7 +114,7 @@ content:
           - Designed an installation to help explain Neural Networks 
           - Collaborated with artists, mechanics and mathematicians.
           - Learnt how to work with arduino and join forces with my python code.
-          Additionally, made prototypes with various materials.
+          - Additionally, made prototypes with various materials.
 
   - title: Experience 
     layout: list # Type of content section (list/text)
@@ -186,8 +186,8 @@ content:
       - travel on my motorcycle
       - view impressionism painting
  
-      <img src="images/motor france.jpg" alt="drawing" width="300"/>
-      <img src="images/plitvice.jpg" alt="drawing" width="400"/>
+      <img src="images/motor france.jpg" style="padding-right: 50px"; alt="drawing" width="300"/>
+      <img src="images/plitvice.jpg" style="padding-right: 50px"; alt="drawing" width="400"/>
       <img src="images/giverny.jpg" alt="drawing" width="400"/>
 
 # Footer
