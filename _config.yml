@@ -110,9 +110,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img src="https://cdn-blog.adafruit.com/uploads/2016/04/1.jpg" style="float:left" alt="drawing" width="400" />
           Explored the use of art as science communication tool.
-          Designed an installation to help explain Neural Networks in 
-          collaboration with artists, mechanics and mathematicians.
-          Learnt how to work with arduino and join forces with my python code.
+          
+          - Designed an installation to help explain Neural Networks 
+          - Collaborated with artists, mechanics and mathematicians.
+          - Learnt how to work with arduino and join forces with my python code.
           Additionally, made prototypes with various materials.
 
   - title: Experience 
