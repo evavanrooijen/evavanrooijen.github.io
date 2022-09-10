@@ -9,7 +9,7 @@ version: 2
 name: Eva van Rooijen
 title: MSc Econometrics and Management Science - looking for thesis topic!
 email: evav.rooijen@live.nl
-website: https://evavanrooijen.github.io/
+# website: https://evavanrooijen.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: true
