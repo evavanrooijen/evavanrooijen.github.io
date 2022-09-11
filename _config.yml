@@ -159,7 +159,7 @@ content:
   - title: Extracurricular Activities # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Chief AI Engineer
         caption: 2021 - 2022
         sub_title: TU Delft Dreamteam Epoch
@@ -173,7 +173,7 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
               
-      - layout: top-middle
+      - layout: right
         title: Personal Leadership Programme
         caption: 2019 - 2020
         sub_title: Erasmus Honours Academy
