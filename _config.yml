@@ -177,14 +177,12 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
           
-
-      - layout: top-middle
+<!--      - layout: top-middle
         title: Excellence Programme - AI
         caption: 2019 - 2020
         sub_title: FAECTOR Study Association
         quote: >
-        description: | # this will include new lines to allow paragraphs
-                    
+        description: | -->                
 
   - title: A Little More About Me
     layout: text
