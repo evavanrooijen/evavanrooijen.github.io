@@ -60,13 +60,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 
+        title: MSc Econometrics and Management Science
         caption: 2022 - 2023
-        sub_title: MSc Econometrics and Management Science
+        sub_title: Erasmus University Rotterdam
         quote: >
-          Erasmus University Rotterdam
+          Analytics and Operations Research In Logistics
         description: | # this will include new lines to allow paragraphs
-           Analytics and Operations Research In Logistics
+           probabilistic forecasting
       - layout: left
         title: MSc Science Education and Communication
         caption: 2021 - 2023
@@ -78,9 +78,9 @@ content:
                  Causal Networks, Graph Theory, Climate Data Analysis, Evolutionary Algorithms
 
       - layout: left
-        title: Erasmus University Rotterdam
+        title: BSc Econometrics and Operations Research + BSc International Economics and Business Economics
         caption: 2016 - 2020
-        sub_title: BSc2 Econometrics and Operations Research + BSc International Economics and Business Economics
+        sub_title: Erasmus University Rotterdam
         quote: >
           Thesis: Topic Modeling of News Articles - Model Validation by Topic Stability
         description: | # this will include new lines to allow paragraphs
