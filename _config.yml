@@ -128,7 +128,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Educator
+        title: Data Scientist & Visualizer
         link: wisdombeyonddata.github.io
         link_text: wisdombeyonddata.com
         sub_title: Freelance
