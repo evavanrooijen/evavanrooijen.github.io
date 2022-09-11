@@ -66,7 +66,7 @@ content:
         quote: >
           Analytics and Operations Research In Logistics
         description: | # this will include new lines to allow paragraphs
-           probabilistic forecasting
+           - probabilistic forecasting
       - layout: left
         title: MSc Science Education and Communication
         caption: 2021 - 2023
@@ -74,7 +74,7 @@ content:
         quote: >
           Communication Design for Innovation
         description: | # this will include new lines to allow paragraphs
-                Electives: Causal Networks, Graph Theory, Climate Data Analysis, Evolutionary Algorithms
+                - Electives: Causal Networks, Graph Theory, Climate Data Analysis, Evolutionary Algorithms
 
       - layout: left
         title: BSc Econometrics and Operations Research 
@@ -83,10 +83,10 @@ content:
         quote: >
           Thesis: Topic Modeling of News Articles - Model Validation by Topic Stability
         description: | # this will include new lines to allow paragraphs
-            Minor: Advanced Computer Science, 8.7/10
+            - Minor: Advanced Computer Science, 8.7/10
             
-            Exchange Semester at the National Research University HSE Moscow, Computer Science, 8.5/10
-            Courses: Medical Informatics; Cognitive Neuroscience; Data Engineering; Machine Learning 
+            - Exchange Semester at the National Research University HSE Moscow, Computer Science, 8.5/10
+            - Courses: Medical Informatics; Cognitive Neuroscience; Data Engineering; Machine Learning 
            
       - layout: left
         title: BSc International and Business Economics
@@ -95,8 +95,8 @@ content:
         quote: >
           Thesis: Topic Modeling of News Articles - Model Validation by Topic Stability
         description: | # this will include new lines to allow paragraphs
-            Major: Policy Economics, 8.2/10 
-            Electives: Environmental Economics, Impact Evaluation
+            - Major: Policy Economics, 8.2/10 
+            - Electives: Environmental Economics, Impact Evaluation
             
 
   - title: Projects # Title for the section
