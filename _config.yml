@@ -136,7 +136,9 @@ content:
         quote: >
           Wisdom beyond Data
         description: | # this will include new lines to allow paragraphs
-            teach courses on python, data science and visualisations
+            - Teach courses on python, data science and visualisations
+            - Research on performance machine learning for public affairs
+            - Design of visualization tools for [Open Data portal of Dutch government] (https://data.overheid.nl/)
                
       - layout: left
         title: Ministry of Internal Affairs
@@ -146,8 +148,8 @@ content:
           Publication of Official Governmental Documents
           
         description: | # this will include new lines to allow paragraphs
-            After freelancing, was looking for teamwork and development.
-            Improving the search engine for open publication of officIal governmental documents
+            - After freelancing, was looking for teamwork and development.
+            - Improving the search engine for open publication of governmental documents
                 
 
        # title: Research Assistant
@@ -179,7 +181,7 @@ content:
         description: | # this will include new lines to allow paragraphs
                    
 
-  - title: A Little More About Me
+  - title: Something Personal
     layout: text
     content: | # this will include new lines to allow paragraphs
       Besides this, I enjoy to:
