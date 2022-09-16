@@ -194,7 +194,7 @@ content:
                    
 
   - title: Something Personal
-    layout: right
+    layout: left
     content: | # this will include new lines to allow paragraphs
       Besides this, I enjoy to:
       - design and sew clothes
