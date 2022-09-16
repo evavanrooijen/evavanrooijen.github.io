@@ -175,7 +175,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Leadership skill developed by being part of the management team
           - Start-up experience  new TU Delft Dreamteam competing in AI competitions
-      - layout: top-middle
+      - layout: left
         title: Honours Research Class
         caption: 2019 - 2020
         sub_title: Erasmus Honours Academy
