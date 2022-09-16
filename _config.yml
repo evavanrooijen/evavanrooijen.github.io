@@ -168,7 +168,7 @@ content:
   - title: Extracurricular Activities # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Chief AI Engineer
         caption: 2021 - 2022
         sub_title: TU Delft Dreamteam Epoch
@@ -186,7 +186,7 @@ content:
         - Research experience: two periods of research assistance to professors in Econometric department
         - Principal Component Analysis and Cointegration for Time Series Modeling
               
-      - layout: top-middle
+      - layout: left
         title: Personal Leadership Programme
         caption: 2019 - 2020
         sub_title: Erasmus Honours Academy
