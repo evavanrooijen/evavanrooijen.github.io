@@ -172,18 +172,16 @@ content:
         title: Chief AI Engineer
         caption: 2021 - 2022
         sub_title: TU Delft Dreamteam Epoch
-        quote: 
         description: | # this will include new lines to allow paragraphs
-          - Leadership skill: developed by being part of the management team
-          - Start-up experience: new TU Delft Dreamteam competing in AI competitions
+          - Leadership skill developed by being part of the management team
+          - Start-up experience  new TU Delft Dreamteam competing in AI competitions
                   
       - layout: left
         title:  Honours Research Class
         caption: 2019-2020
         sub_title: Erasmus Honours Academy
-        quote: >
         description: | # this will include new lines to allow paragraphs
-        - Research experience: two periods of research assistance to professors in Econometric department
+        - Research experience two periods of research assistance to professors in Econometric department
         - Principal Component Analysis and Cointegration for Time Series Modeling
               
       - layout: left
@@ -192,8 +190,8 @@ content:
         sub_title: Erasmus Honours Academy
         quote: >
         description: | # this will include new lines to allow paragraphs
-        - Leadership: making value-driven decisions in your personal life
-        - Time Management: balancing professional and personal growth
+        - Leadership making value-driven decisions in your personal life
+        - Time Management balancing professional and personal growth
                    
 
   - title: Something Personal
