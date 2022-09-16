@@ -66,7 +66,9 @@ content:
         quote: >
           Analytics and Operations Research In Logistics
         description: | # this will include new lines to allow paragraphs
-           - Probabilistic forecasting
+           - Stochastic Models and Optimization (Markov Decision Processes, Q-Learning)
+           - Mathematical Programming
+           - Machine Learning
       - layout: left
         title: MSc Science Education and Communication
         caption: 2021 - 2023
@@ -74,7 +76,11 @@ content:
         quote: >
           Communication Design for Innovation
         description: | # this will include new lines to allow paragraphs
-                - Electives: Causal Networks, Graph Theory, Climate Data Analysis, Evolutionary Algorithms
+                - Research Methods for Social Sciences
+                - Responsible Research and Innovation
+                - Communication Sciences
+                
+                - Electives: Causal Networks, Climate Data Analysis, Evolutionary Algorithms
                 - Research Assistant for TU Library research on Citizen Science
 
       - layout: left
@@ -168,13 +174,17 @@ content:
         sub_title: TU Delft Dreamteam Epoch
         quote: 
         description: | # this will include new lines to allow paragraphs
+          - Leadership skill: developed by being part of the management team
+          - Start-up experience: new TU Delft Dreamteam competing in AI competitions
                   
-      - layout: top-middle
+      - layout: right
         title:  Honours Research Class
         caption: 2019-2020
         sub_title: Erasmus Honours Academy
         quote: >
         description: | # this will include new lines to allow paragraphs
+        - Research experience: two periods of research assistance to professors in Econometric department
+        - Principal Component Analysis and Cointegration for Time Series Modeling
               
       - layout: top-middle
         title: Personal Leadership Programme
@@ -182,10 +192,12 @@ content:
         sub_title: Erasmus Honours Academy
         quote: >
         description: | # this will include new lines to allow paragraphs
+        - Leadership: making value-driven decisions in your personal life
+        - Time Management: balancing professional and personal growth
                    
 
   - title: Something Personal
-    layout: text
+    layout: top-middle
     content: | # this will include new lines to allow paragraphs
       Besides this, I enjoy to:
       - design and sew clothes
