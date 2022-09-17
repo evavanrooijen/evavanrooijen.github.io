@@ -1,0 +1,221 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Eva van Rooijen
+title: MSc Econometrics and Management Science - looking for thesis topic!
+email: evav.rooijen@live.nl
+# website: https://evavanrooijen.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: never
+
+# Social links
+twitter_username: evalikesdata
+github_username:  evavanrooijen
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: evavrooijen
+linkedin_username: evavanrooijen
+# xing_username: jekyll
+# pinterest_username: evavanrooijen
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+about_title: Hello, World! #About Me
+about_profile_image: images/plitvice-modified.png
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Eva and like to puzzle with data. 
+  
+  As well as working on predictive models I also have experience making visualisations and teaching. Through extracurricular activities, I have gained teamwork and leadership skills.
+
+  I am most skilled in: <mark>Statistics</mark> and <mark>Python</mark>
+
+content:
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: MSc Econometrics and Management Science
+        caption: 2022 - 2023
+        sub_title: Erasmus University Rotterdam
+        quote: >
+          Analytics and Operations Research In Logistics
+        description: | # this will include new lines to allow paragraphs
+           - Stochastic Models and Optimization (Markov Decision Processes, Q-Learning)
+           - Mathematical Programming
+           - Machine Learning
+      - layout: left
+        title: MSc Science Education and Communication
+        caption: 2021 - 2023
+        sub_title: TU Delft
+        quote: >
+          Communication Design for Innovation
+        description: | # this will include new lines to allow paragraphs
+                - Research Methods for Social Sciences
+                - Responsible Research and Innovation
+                - Communication Sciences
+                
+                - Electives: Causal Networks, Climate Data Analysis, Evolutionary Algorithms
+                - Research Assistant for TU Library research on Citizen Science
+
+      - layout: left
+        title: BSc Econometrics and Operations Research 
+        caption: 2016 - 2020
+        sub_title: Erasmus University Rotterdam
+        quote: >
+          Thesis: Topic Modeling of News Articles - Model Validation by Topic Stability
+        description: | # this will include new lines to allow paragraphs
+            - Minor: Advanced Computer Science, 8.7/10
+            - Research Assitant for prof. dr. Philip Hans Franses
+            - Research Intern for prof. dr. Michel van der Wel
+            
+            - Exchange Semester at the National Research University HSE Moscow, Computer Science, 8.5/10
+            - Courses: Medical Informatics; Cognitive Neuroscience; Data Engineering; Machine Learning 
+           
+      - layout: left
+        title: BSc International and Business Economics
+        caption: 2016 - 2020
+        sub_title: Erasmus University Rotterdam
+        quote: >
+          Thesis: Topic Modeling of News Articles - Model Validation by Topic Stability
+        description: | # this will include new lines to allow paragraphs
+            - Major: Policy Economics, 8.2/10 
+            - Electives: Environmental Economics, Impact Evaluation
+            
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Art to Explain Neural Nets
+        #link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+          #- title:  sproogen/modern-resume-theme
+            #icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          internship at Science Centre TU Delft
+        description: | # this will include new lines to allow paragraphs
+          <img src="https://cdn-blog.adafruit.com/uploads/2016/04/1.jpg" style="padding-right: 50px;  float:left" alt="drawing" width="400" />
+          Explored the use of art as science communication tool.
+          
+          - Designed an installation to help explain Neural Networks 
+          - Collaborated with artists, mechanics and mathematicians.
+          - Learnt how to work with arduino and join forces with my python code.
+          - Additionally, made prototypes with various materials.
+
+  - title: Experience 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Freelance
+        link: wisdombeyonddata.github.io
+        link_text: wisdombeyonddata.com
+        sub_title: Data Scientist & Visualizer 
+        caption: 2020- Present
+        quote: >
+          Wisdom beyond Data
+        description: | # this will include new lines to allow paragraphs
+            - Teach courses on python, data science and visualisations
+            - Research on performance machine learning for public affairs
+            - Design of visualization tools for [Open Data portal of Dutch government] (https://data.overheid.nl/)
+               
+      - layout: left
+        title: Ministry of Internal Affairs
+        sub_title: Data Scientist
+        caption: 1/2021 - 9/2021
+        quote: > 
+          Publication of Official Governmental Documents
+          
+        description: | # this will include new lines to allow paragraphs
+            - After freelancing, was looking for teamwork and development.
+            - Improving the search engine for open publication of governmental documents
+                
+
+       # title: Research Assistant
+
+            
+
+  - title: Extracurricular Activities # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Chief AI Engineer
+        caption: 2021 - 2022
+        sub_title: TU Delft Dreamteam Epoch
+        description: | # this will include new lines to allow paragraphs
+          - Leadership skill developed by being part of the management team
+          - Start-up experience  new TU Delft Dreamteam competing in AI competitions
+      - layout: left
+        title: Honours Research Class
+        caption: 2019 - 2020
+        sub_title: Erasmus Honours Academy
+        description: | # this will include new lines to allow paragraphs
+          - Research experience two periods of research assistance to professors in Econometric department
+          - Principal Component Analysis and Cointegration for Time Series Modeling
+              
+      - layout: left
+        title: Personal Leadership Programme
+        caption: 2019 - 2020
+        sub_title: Erasmus Honours Academy
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+          - Leadership making value-driven decisions in your personal life
+          - Time Management balancing professional and personal growth
+                   
+
+  - title: Something Personal
+    layout: left
+    content: | # this will include new lines to allow paragraphs
+      Besides this, I enjoy to:
+      - design and sew clothes
+      - travel on my motorcycle
+      - view impressionism painting
+ 
+      <img src="images/motor france.jpg" width="300"/>
+      <img src="images/plitvice.jpg"  width="400"/>
+      <img src="images/map.jpg"  alt="map" width="400" />
+      <img src="images/giverny.jpg"  width="400"/>
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
